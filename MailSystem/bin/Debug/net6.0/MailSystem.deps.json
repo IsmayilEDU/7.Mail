@@ -7,8 +7,19 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "MailSystem/1.0.0": {
+        "dependencies": {
+          "MyLibrary": "1.0.0.0"
+        },
         "runtime": {
           "MailSystem.dll": {}
+        }
+      },
+      "MyLibrary/1.0.0.0": {
+        "runtime": {
+          "MyLibrary.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
@@ -16,6 +27,11 @@
   "libraries": {
     "MailSystem/1.0.0": {
       "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyLibrary/1.0.0.0": {
+      "type": "reference",
       "serviceable": false,
       "sha512": ""
     }

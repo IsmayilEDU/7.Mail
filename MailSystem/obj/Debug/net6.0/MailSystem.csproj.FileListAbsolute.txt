@@ -28,3 +28,6 @@ C:\Ismayil\PROJECTS\StepIT\4.C#\7.Readonly, operator overloading\7.Mail\MailSyst
 C:\Ismayil\PROJECTS\StepIT\4.C#\7.Readonly, operator overloading\7.Mail\MailSystem\obj\Debug\net6.0\MailSystem.pdb
 C:\Ismayil\PROJECTS\StepIT\4.C#\7.Readonly, operator overloading\7.Mail\MailSystem\obj\Debug\net6.0\MailSystem.genruntimeconfig.cache
 C:\Ismayil\PROJECTS\StepIT\4.C#\7.Readonly, operator overloading\7.Mail\MailSystem\obj\Debug\net6.0\ref\MailSystem.dll
+C:\Ismayil\PROJECTS\StepIT\4.C#\7.Readonly, operator overloading\7.Mail\MailSystem\bin\Debug\net6.0\MyLibrary.dll
+C:\Ismayil\PROJECTS\StepIT\4.C#\7.Readonly, operator overloading\7.Mail\MailSystem\bin\Debug\net6.0\MyLibrary.pdb
+C:\Ismayil\PROJECTS\StepIT\4.C#\7.Readonly, operator overloading\7.Mail\MailSystem\obj\Debug\net6.0\MailSystem.csproj.CopyComplete
